@@ -1,0 +1,15 @@
+https://github.com/Vijay-Anandh/Demo.git
+
+echo "# Demo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Vijay-Anandh/Demo.git
+git push -u origin main
+
+git remote add origin https://github.com/Vijay-Anandh/Demo.git
+git branch -M main
+git push -u origin main
+
+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
